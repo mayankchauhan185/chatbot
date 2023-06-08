@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "milo-dnnb",
+  "private_key_id": "08c9eba3e298ee54152a800814a544fd410759e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1bvWHBQMHoYlQ\nG71zxtpD1PykY0O21kKF3CwsbRhaf0JjkkhmnLsiH8+OwXyZ3+wzaW53PG5QFcl5\n0QML7AKLZlc45nwK7JtSdvn6f3Mdbw/bNxdTbfkQej1fT2lSSubw7Gu7PVp/bvAn\nJBgnbuYjqFdqA/N3FQ5Om1+JjUXGkKi1YxCc0K8/P2bWbqkR3ktL5FYXpILENAHL\n1fpbPwxraPQOYL77p3PLArBn/54Bu35ZoCZQvT46WqU8E7EleEuiQHldAamWmp7/\n7aOIhEOIAERkqz4Du6XNM0oGd6vBFKS/9+O3AgQ6DhTkhVA9Vua7PGNJqe8hw870\ny5JJctU5AgMBAAECggEAD8xYPGgj6f+XeYGnQhqRmaoR6a24qrk51HZ/sWQ6fgud\ni0mkj9+b4XSY2fRgViglmBoMUJbTGc21davM5el1SBAip8WIc/PdJOKC3kLhkjGM\n7uiujK9pw/tXUFV8DuD1mD4hHCe5s2XEkZPwan0BZ+xAce6Wisr3+PSvuyyxY7Qo\nc8RjldSnyzSupRMsWgSXedU7A5PWEw6LjEbGif2oRJ6RgJRuX4CJ+IA8+U2IwHxW\nnsP/SupEjXhOMAApLxFOewX5/1mAoOVm5/C7wAgbI0xMSHPGhCuhJvybyTg04/Pk\nYwofzwDHj/S47J2eOMHgXePP2869kT6jL/Ef806RtQKBgQDsqotgAGhvCT4W/l9F\n39DMgQkGxCHLSP3WloDU3rg3nHYvb1RLpE1Mx3ltYmVvJwW9KiWTJZvaCqCwoGKH\n8I7aR1WwkGW0V4E9mHecQE7L2prWV/bWNTCGS90JNs8n3N5oOAOy4b28tmws9FXo\nWk3BH14Kr6vkoxsZ0QgBPfE3rwKBgQDEQVGvarM8/wek1psXIXdFkUTotA6I+97D\nP34O8O4yIeS4p6WYzXbi/F36KZEC2G+df7cZC2zH1T/cbHcjqSHKKe+g2+JYR7zl\ndSaRWIbKqzSWOEU76K53rpW2vR9PNZSQAFO9uYaOvMNE/9Et8kQR48fWZeQ/V0V7\n6rJRcMcTlwKBgQDpVUPQxNYyEyS6OtTn6UDNP7MMjrba2/4YYY5nUabCfWowXkz3\nvufPeSOI6ugi7JBF7pXZO80q7it7uMUsTcop/wbG67a6VUPA3N+gl+6YIdFi3pso\nmoxa+9TTTsxy+tn0WrWa2eHdeuWwdL12NgJPE4P+eTC6XO1NSL/hqZZ3VQKBgE9e\n/3NLWuwbVHMVHCoxrbQj+VOHpq09+CzM2+WdCSibTo5jtvRifGd2m2dWMkCNWi6/\nfUSSu07ibu5tq41vlKvXZAORiiwb70h5pbx4qiMDNMRgQ5fkFdNvdzstp6D4UXof\nt75ubv4BV5PrRiUn6uG1VpfeI35+hCqGk9GeI9VHAoGAfEK9TXz9xfAn7dW+VQml\nIhNkrQJa+ZdQB1EjFlnYw2IleoB6oj7MkGOuwHWo5HqaLRh95YBPhXEh3T6dKgjb\n+7s0kzhQLlzEywv6D3w0kYtR3qcyMFX4YUdOoKGP7K7bTxS00bealNpn3/qa71Rp\nZKBF9guKp5KXY+R1xPELI1c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "milobot@milo-dnnb.iam.gserviceaccount.com",
+  "client_id": "114449696889741156590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/milobot%40milo-dnnb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
